@@ -21,5 +21,3 @@ I'm not responsible for your use of this code in any illegal way
 - Doesn't pin new or updated comments
 - Can unintentionally overwrite your other comments based on the SEARCH_TERMS *(top priority)*
 - Not currently automated
-
-- Not a current user
